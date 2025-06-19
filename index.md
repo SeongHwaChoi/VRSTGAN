@@ -1,5 +1,5 @@
-# Perceptually-Guided VR Style Transfer
-#### Seonghwa Choi, Jungwoo Huh, Sanghoon Lee, Fellow, IEEE, and Alan Conrad Bovik, Fellow, IEEE
+# <center> Perceptually-Guided VR Style Transfer </center>
+## <center> Seonghwa Choi, Jungwoo Huh, Sanghoon Lee, Fellow, IEEE, and Alan Conrad Bovik, Fellow, IEEE </center>
 
 
 <html lang="en">
