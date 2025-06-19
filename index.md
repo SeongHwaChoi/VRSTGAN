@@ -1,5 +1,5 @@
 # <center> Perceptually-Guided VR Style Transfer </center>
-## <center> Seonghwa Choi, Jungwoo Huh, Sanghoon Lee, Fellow, IEEE, and Alan Conrad Bovik, Fellow, IEEE </center>
+#### <center> Seonghwa Choi, Jungwoo Huh, Sanghoon Lee, Fellow, IEEE, and Alan Conrad Bovik, Fellow, IEEE </center>
 
 
 <html lang="en">
@@ -93,7 +93,7 @@
 
 <script>
   const videos = document.querySelectorAll('video');
-  videos.forEach(v => v.playbackRate = 0.25);
+  videos.forEach(v => v.playbackRate = 1);
 </script>
 </body>
 </html>
