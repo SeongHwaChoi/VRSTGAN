@@ -1,6 +1,6 @@
 # <center> Perceptually-Guided VR Style Transfer </center>
-#### <center> Seonghwa Choi$^{1}$, Jungwoo Huh$^{1}$, Sanghoon Lee$^{1}$$^{*}$, and Alan Conrad Bovik </center>
-<center> $^{1}$ Yonsei University, Korea $\\^{2}$ The University of Texas at Austin, USA </center>
+#### <center> Seonghwa Choi$$^{1}$$, Jungwoo Huh$^{1}$, Sanghoon Lee$^{1}$$^{*}$, and Alan Conrad Bovik </center>
+<center> $^{1}$ Yonsei University, Korea $$^{2}$$ The University of Texas at Austin, USA </center>
 <center> $^{*}$ Indicates Corresponding Author </center>
 
 
