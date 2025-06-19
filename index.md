@@ -23,7 +23,7 @@
     }
     .set {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+      grid-template-columns: repeat(repeat(4, 1fr), minmax(350px, 1fr));
       gap: 10px;
       margin-bottom: 50px;
     }
@@ -61,6 +61,10 @@
       <div class="video-slot"><video src="demo/ref/converted_vid1.mp4" autoplay loop muted></video></div>
       <div class="label">Content</div>
     </div>
+    <div>
+      <div class="video-slot"><video src="demo/case1/00000106_(3)/Ours_ver2_ebgan.mp4" autoplay loop muted></video></div>
+      <div class="label">Ours</div>
+    </div>
   </div>
   <div class="set">
     <div><div class="video-slot"><video src="demo/case1/00000106_(3)/GCT.mp4" autoplay loop muted></video></div><div class="label">GCT</div></div>
@@ -73,7 +77,6 @@
     <div><div class="video-slot"><video src="demo/case1/00000106_(3)/PKD.mp4" autoplay loop muted></video></div><div class="label">PKD</div></div>
     <div><div class="video-slot"><video src="demo/case1/00000106_(3)/CCPL.mp4" autoplay loop muted></video></div><div class="label">CCPL</div></div>
     <div><div class="video-slot"><video src="demo/case1/00000106_(3)/CAPVST.mp4" autoplay loop muted></video></div><div class="label">CAPVST</div></div>
-    <div><div class="video-slot"><video src="demo/case1/00000106_(3)/Ours_ver2_ebgan.mp4" autoplay loop muted></video></div><div class="label">Ours</div></div>
   </div>
 
   <div class="set">
@@ -85,6 +88,11 @@
       <div class="video-slot"><video src="demo/ref/G1Aerial.mp4" autoplay loop muted></video></div>
       <div class="label">Content</div>
     </div>
+    <div>
+      <div class="video-slot"><video src="demo/case2/00000087_(2)/Ours_ver2_ebgan.mp4" autoplay loop muted></video></div>
+      <div class="label">Ours</div>
+    </div>
+
   </div>
   <div class="set">
     <div><div class="video-slot"><video src="demo/case2/00000087_(2)/GCT.mp4" autoplay loop muted></video></div><div class="label">GCT</div></div>
@@ -97,7 +105,6 @@
     <div><div class="video-slot"><video src="demo/case2/00000087_(2)/PKD.mp4" autoplay loop muted></video></div><div class="label">PKD</div></div>
     <div><div class="video-slot"><video src="demo/case2/00000087_(2)/CCPL.mp4" autoplay loop muted></video></div><div class="label">CCPL</div></div>
     <div><div class="video-slot"><video src="demo/case2/00000087_(2)/CAPVST.mp4" autoplay loop muted></video></div><div class="label">CAPVST</div></div>
-    <div><div class="video-slot"><video src="demo/case2/00000087_(2)/Ours_ver2_ebgan.mp4" autoplay loop muted></video></div><div class="label">Ours</div></div>
   </div>
 
 <script>
