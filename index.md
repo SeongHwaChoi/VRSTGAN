@@ -5,6 +5,10 @@
  $^{1}$ Yonsei University, Korea $$^{2}$$ The University of Texas at Austin, USA
  $^{*}$ Indicates Corresponding Author
 </div>
+<div align="center">
+# **Perceptually-Guided VR Style Transfer**
+#### Seonghwa Choi<sup>1</sup>, Jungwoo Huh<sup>1</sup>, Sanghoon Lee<sup>1*</sup>, and Alan Conrad Bovik
+</div>
 
 <html lang="en">
 <head>
