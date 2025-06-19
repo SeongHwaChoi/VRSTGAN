@@ -5,7 +5,7 @@
   <h2>Seonghwa Choi<sup>1</sup>, Jungwoo Huh<sup>1</sup>, Sanghoon Lee<sup>1*</sup>, and Alan Conrad Bovik<sup>2</sup> </h2>
 </center>
 <center>
-  <h4><sup>1</sup> Yonsei University, Korea <sup>2</sup> The University of Texas at Austin, USA</h4>
+  <h4><sup>1</sup> Yonsei University, Korea     <sup>2</sup> The University of Texas at Austin, USA</h4>
 </center>
 <center>
   <h4><sup>*</sup> Indicates Corresponding Author</h4>
@@ -48,7 +48,7 @@
 </head>
 <body>
 <center>
-  <h4>Video Comparison</h4>
+  <h3>Video Comparison</h3>
 </center>
 
 
