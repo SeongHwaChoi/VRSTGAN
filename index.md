@@ -47,9 +47,9 @@
   </style>
 </head>
 <body>
-  <center>
-    <h1>Video Comparison</h1>
-  </center>
+<center>
+  <h4>Video Comparison</h4>
+</center>
 
 
   <div class="set">
