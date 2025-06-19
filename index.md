@@ -49,7 +49,7 @@
       <div class="label">Style</div>
     </div>
     <div>
-      <div class="video-slot"><video src="demo/ref/converted_vid1.mp4.mp4" autoplay loop muted></video></div>
+      <div class="video-slot"><video src="demo/ref/converted_vid1.mp4" autoplay loop muted></video></div>
       <div class="label">Content</div>
     </div>
   </div>
@@ -93,7 +93,7 @@
 
 <script>
   const videos = document.querySelectorAll('video');
-  videos.forEach(v => v.playbackRate = 0.5);
+  videos.forEach(v => v.playbackRate = 0.25);
 </script>
 </body>
 </html>
