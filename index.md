@@ -23,7 +23,7 @@
     }
     .set {
       display: grid;
-      grid-template-columns: repeat(repeat(4, 1fr), minmax(350px, 1fr));
+      grid-template-columns: repeat(4, minmax(350px, 1fr));
       gap: 10px;
       margin-bottom: 50px;
     }
